@@ -8,6 +8,8 @@ This is introduction.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Purpose.
 
 ## Deployment
+
+This is about deployment.
