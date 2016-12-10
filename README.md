@@ -13,3 +13,6 @@ Sample website with plenty of files for demos. Purpose.
 ## Deployment
 
 This is about deployment.
+
+##Copyright
+Copyright
