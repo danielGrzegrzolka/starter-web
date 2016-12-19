@@ -17,4 +17,4 @@ Sample website with plenty of files for demos. Purpose.
 This is about deployment.
 
 ##Copyright
-Copyright
+Copyright. Modify
